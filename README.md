@@ -8,6 +8,7 @@ Cada archivo está tal como lo publicó su autor en GBAtemp; aquí solo se aloja
 
 | Juego | Partida | Autor | Original |
 |---|---|---|---|
+| Dragon Ball: Sparking! Zero | 100%: historia y personajes | DrGiraffe, adaptada a Switch por dankonion | [página](https://gbatemp.net/download/dragon-ball-sparking-zero-100-completed-save-game.39467/) |
 | Kirby and the Forgotten Land | Tercer mundo completo | bibliomon | [página](https://gbatemp.net/download/kirby-and-the-forgotten-land-3rd-world-complete.39446/) |
 | Mario Kart 8 Deluxe | 100%: todo desbloqueado | justsomegamerwhoplays | [página](https://gbatemp.net/download/mario-kart-8-deluxe-100-save-dump-v3-0-3.39026/) |
 | Metal Gear Solid: Peace Walker | Partida completa | sysuah | [página](https://gbatemp.net/download/metal-gear-solid-peace-walker-master-collection-vol-2-complete-save.40016/) |
